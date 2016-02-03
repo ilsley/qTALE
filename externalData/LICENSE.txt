@@ -1,0 +1,8 @@
+The data in this folder are supplied for convenience in reproducing the associated published work.
+No licence is given for further use.
+
+If further use is required, please contact the original authors:
+
+		Janssens, H. et al. Lack of tailless leads to an increase in expression variability in Drosophila embryos. Dev. Biol. 377, 305-17 (2013).
+		Zinzen, R. P., Senger, K., Levine, M. & Papatsenko, D. Computational models for neurogenic gene expression in the Drosophila embryo. Curr. Biol. 16, 1358-65 (2006).
+		
